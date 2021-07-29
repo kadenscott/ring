@@ -1,0 +1,8 @@
+name: Ring
+version: ${version}
+main: dev.kscott.ring.paper.PaperRingPlugin
+api-version: 1.16
+prefix: Ring
+authors: [ "bluely <kscottdev@gmail.com>" ]
+description: The ring for mc.ksc.sh.
+website: kaden.sh
